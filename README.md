@@ -2,8 +2,8 @@
  Formula1 project using Azure Databricks,  Azure Data Factory, Delta Lake and Spark
 
 ### Project setup in Databricks
-The projects is set up by accesing the data lakes with Service Principals <br>
-And securing it with 0Auth SECRETS
+The projects is set up by accesing the data lakes with **Service Principals** <br>
+And securing it with 0Auth **SECRETS**
 
 #### Ingestion of raw data, json and csv
 ![ingestion](https://github.com/dominicho97/f1_databricks/assets/43000003/7ebf8126-e69b-46b8-b178-aeab9bfc7f07)
@@ -11,7 +11,7 @@ And securing it with 0Auth SECRETS
 
 After that I used Spark / SQL to join and format the data.
 
-###  Sark SQL visualisation in Databricks notebook
+###  Spark SQL visualisation in Databricks notebook
 
 #### Most dominant F1 drivers in history
 ![drivers](https://github.com/dominicho97/f1_databricks/assets/43000003/4f2a2d57-7d11-4724-a1b3-2949d43f1a54)
