@@ -1,0 +1,9 @@
+{
+	"name": "databricks-dh-adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "efc0f37e-b4ef-41bd-a036-097caf31a296",
+		"tenantId": "389f69eb-02de-4ca0-9098-328e7fdad358"
+	}
+}
