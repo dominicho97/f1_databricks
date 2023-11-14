@@ -23,6 +23,11 @@ After that I used Spark / SQL to join and format the data.
 Setting up **pipeline** in **ADF** from the ingestion files
 ![adf_pipeline](https://github.com/dominicho97/f1_databricks/assets/43000003/ac7e81e2-9bcd-4d3b-b44c-1ff59d85a436)
 
-#### Add metadata activity to pipeline to check for missing folders in Azure storage
-![pipeline_metadata](https://github.com/dominicho97/f1_databricks/assets/43000003/279a581b-57b5-4477-b685-0d1e0e891e35)
+#### Add metadata and if condition activity to pipeline to check for missing folders in Azure storage
+![pipeline_error2](https://github.com/dominicho97/f1_databricks/assets/43000003/47e6377a-e8c8-4b5d-965d-e7ebfabc7d9a)
+
+## Working pipeline with metadata and if-condition check
+![pipeline_correct](https://github.com/dominicho97/f1_databricks/assets/43000003/ab7e719f-3977-43e9-aae2-441c4e3a7674)
+
+
 
