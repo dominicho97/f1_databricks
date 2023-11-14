@@ -18,3 +18,7 @@ After that I used Spark / SQL to join and format the data.
 
 #### Most dominant F1 teams in history
 ![teams](https://github.com/dominicho97/f1_databricks/assets/43000003/5c1b3cd5-afd5-4251-bba1-10ce8014b015)
+
+## Azure Data Factory 
+Setting up **pipeline** in **ADF** from the ingestion files
+![adf_pipeline](https://github.com/dominicho97/f1_databricks/assets/43000003/ac7e81e2-9bcd-4d3b-b44c-1ff59d85a436)
